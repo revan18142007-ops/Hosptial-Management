@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Management System",
+  "description": "Complete Cloud Hospital Management System with Admin, Doctor, and Patient portals, appointments, billing, pharmacy, lab, QR patient IDs, PDF prescriptions, and Gemini AI clinical summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
